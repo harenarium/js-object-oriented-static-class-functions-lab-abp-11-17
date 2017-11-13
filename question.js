@@ -13,7 +13,6 @@ class Question{
   }
   static find(id){
     return this._All[id+1]
-
   }
 
 }
