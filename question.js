@@ -17,4 +17,4 @@ class Question{
 
 }
 
-Questions._All = [];
+Question._All = [];
