@@ -4,7 +4,7 @@ class Question{
   constructor(content){
     this.content = content
     this.save()
-  }/*
+  }
   static All(){
     return this._All;
   }
@@ -14,7 +14,7 @@ class Question{
   find(id){
 
   }
-*/
+
 }
 
 Questions._All = [];
