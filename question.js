@@ -12,7 +12,6 @@ class Question{
     this.constructor._All.push(this)
   }
   static Find(id){
-    debugger
     return this._All[id-1]
   }
 
