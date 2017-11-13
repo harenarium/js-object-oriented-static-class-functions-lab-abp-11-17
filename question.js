@@ -1,4 +1,4 @@
-'use strict';
+//'use strict';
 
 class Questions{
   constructor(content){
@@ -12,7 +12,7 @@ class Questions{
     this.constructor._All.push(this)
   }
   //find(id){
-    
+
   //}
 
 }
